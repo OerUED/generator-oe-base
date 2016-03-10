@@ -1,0 +1,20 @@
+{
+  "name": "generator-oe-base",
+  "version": "0.1.4",
+  "description": "偶尔js组件模版 ",
+  "files": [
+    "app",
+    "router"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/js571/generator-oe-base.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "yeoman-generator": "^0.20.2"
+  }
+}
