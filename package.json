@@ -1,6 +1,6 @@
 {
   "name": "generator-oe-base",
-  "version": "0.1.4",
+  "version": "0.1.0",
   "description": "偶尔js组件模版 ",
   "files": [
     "app",
